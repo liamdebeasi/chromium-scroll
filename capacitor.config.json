@@ -1,0 +1,12 @@
+{
+  "appId": "com.liamdebeasi.chromium",
+  "appName": "chromium-behavior",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
